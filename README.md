@@ -30,7 +30,7 @@ This assistant is built on a modern, scalable automation stack:
 
 > The diagram below illustrates the flow of data from voice input to structured output. **Note: The core AI prompts and expressions have been blurred to protect the project's intellectual property.**
 
-![Blurred Workflow Diagram]("C:\Users\emman\Downloads\workflow-architecture.png..png")
+![Blurred Workflow Diagram](https://github.com/Gabbydunkk/Ai-voice-assistant-n8n/blob/main/workflow-architecture.png..png)
 
 ---
 
