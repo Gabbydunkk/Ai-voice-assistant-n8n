@@ -4,7 +4,7 @@ This project is a powerful, voice-first AI assistant designed to capture, unders
 
 ---
 
-
+[Watch the Live Demo on YouTube](https://youtu.be/q0SqrXhy2HQ)
 
 ---
 
